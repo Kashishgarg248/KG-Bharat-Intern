@@ -1,0 +1,19 @@
+
+.form-control {
+    max-width: none; 
+  }
+  
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
+  
+  @media (max-width: 992px) {
+    .navbar-brand {
+      font-size: 1.2rem; 
+    }
+  }
+  h1.my-4.text-center {
+    color: white;
+    font-weight: bold; 
+}
